@@ -55,3 +55,6 @@ Ao final do trabalho, consegui publicar o site sobre Jogos de Herança utilizand
 7. Conclusão
 
 O trabalho permitiu colocar em prática conhecimentos de HTML e CSS e aprender novos conceitos relacionados ao Git, GitHub e GitHub Pages. A experiência também mostrou como uma página criada localmente pode ser publicada e disponibilizada na internet.
+
+GITHUB PAGES:
+https://estelafiorentin.github.io/Jogos_de_Heranca/
